@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://brielfrancisco.github.io/briel/", // replace this with your deployed domain
   author: "Gabriel Francisco",
   desc: "Blog pessoal para compartilhamento de conhecimentos e experiências do mundo Dev",
-  title: "Briel Francisco",
+  title: "Gabriel Francisco",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 7,
