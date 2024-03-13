@@ -8,7 +8,7 @@ featured: true
 draft: false
 tags:
   - blog
-description: Veja o porque e quais tecnologias foram usadas.
+description: Veja o porquê e quais tecnologias foram usadas.
 ---
 
 Here are some rules/recommendations, tips & ticks for creating new posts in AstroPaper blog theme.
