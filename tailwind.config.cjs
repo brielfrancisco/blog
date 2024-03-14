@@ -54,7 +54,7 @@ module.exports = {
         transparent: "transparent",
       },
       fontFamily: {
-        sans: ["Sawarabi Gothic"]
+        sans: ["Istok Web"]
       },
 
       typography: {
