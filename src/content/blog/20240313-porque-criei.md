@@ -13,7 +13,7 @@ description: Veja o porquê e quais tecnologias foram usadas.
 
 ## Bem-vindo ao meu novo blog!
 
-Olá ;)! Seja bem-vindo! Aqui começa a jornada, onde publicarei minhas ideias referente ao mundo do desenvolvimento de software.
+Olá! Seja bem-vindo! Aqui começa a jornada, onde publicarei minhas ideias referente ao mundo do desenvolvimento de software.
 Pretendo ao máximo postar conteúdos com frequência e compartilhar minhas experiências. Sinta-se livre para pesquisar a vontade.
 Clique [aqui](https://brielfrancisco.github.io/blog/about/) para saber mais sobre mim.
 
@@ -26,3 +26,13 @@ Primeiramente usei Astro como framework geral, em conjunto com React. Minha esco
 Algo interessante foi a possibilidade da adição de temas pré-definidos pela comunidade. Para o blog eu usei o incrível e minimalista [AstroPaper](https://astro.build/themes/details/astropaper/), com algumas leves modificações feitas por mim.
 
 Como a ideia principal é focar no blog, resolvi usar esse conjunto incrível de ferramentas ao invés de escrever tudo do zero.
+
+```c
+include <stdlib.h>
+
+int main(){
+  printf("Hello World!");
+
+  return 0;
+}
+```
